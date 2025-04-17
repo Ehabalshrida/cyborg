@@ -14,7 +14,9 @@
   > npm run dev
 
 6- Go to browser then past the url which appear on terminal.
-
+## live url
+ - code deployed on vercel, and here you can find the live Url:
+<https://cyborg-neon.vercel.app/>
 
 # React + Vite
 
